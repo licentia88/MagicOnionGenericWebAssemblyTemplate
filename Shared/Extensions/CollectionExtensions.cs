@@ -7,7 +7,6 @@ namespace MagicT.Shared.Extensions;
 public static class CollectionExtensions
 {
     /// <summary>
-    /// 
     /// </summary>
     /// <typeparam name="T"></typeparam>
     /// <param name="collection"></param>
