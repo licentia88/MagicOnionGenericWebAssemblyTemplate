@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TJ9FYaMOzkNUfLSFRNzuoF+IUbmm0qypGtWlSzQhtw4=",
+  "Hash": "vm+IHCPpalRaEcVYWb1ZM8bx+ibj3tEVjYUXwYfzEQY=",
   "Source": "MagicT.Server",
   "BasePath": "_content/MagicT.Server",
   "Mode": "Default",
@@ -180,6 +180,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/asimgunduz/.nuget/packages/bouncycastle.netcore/2.2.1/lib/netstandard2.0/BouncyCastle.Crypto.dll"
+    },
+    {
+      "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Bromix.MudBlazor.MaterialDesignIcons.dll",
+      "SourceId": "MagicT.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bromix.MudBlazor.MaterialDesignIcons.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/asimgunduz/.nuget/packages/bromix.mudblazor.materialdesignicons/7.4.47.56/lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll"
     },
     {
       "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/ClosedXML.dll",
@@ -6914,6 +6931,23 @@
       "OriginalItemSpec": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XmlDocument.dll"
     },
     {
+      "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/91PR7XZR.gz",
+      "SourceId": "MagicT.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Bromix.MudBlazor.MaterialDesignIcons.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Bromix.MudBlazor.MaterialDesignIcons.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Bromix.MudBlazor.MaterialDesignIcons.dll"
+    },
+    {
       "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/94Csu447.gz",
       "SourceId": "MagicT.Client",
       "SourceType": "Project",
@@ -12063,6 +12097,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/logo192.png",
+      "SourceId": "MagicT.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "logo192.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo192.png"
+    },
+    {
+      "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/logo512.png",
+      "SourceId": "MagicT.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "logo512.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo512.png"
     },
     {
       "Identity": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/manifest.json",

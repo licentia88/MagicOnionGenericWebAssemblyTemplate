@@ -1,6 +1,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/bin/Debug/net7.0/MagicT.Shared.deps.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/bin/Debug/net7.0/MagicT.Shared.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/bin/Debug/net7.0/MagicT.Shared.pdb
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.csproj.AssemblyReference.cache
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.GeneratedMSBuildEditorConfig.editorconfig
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.AssemblyInfoInputs.cache
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.AssemblyInfo.cs
@@ -9,4 +10,3 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/refint/MagicT.Shared.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.pdb
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/ref/MagicT.Shared.dll
-/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Shared/obj/Debug/net7.0/MagicT.Shared.csproj.AssemblyReference.cache

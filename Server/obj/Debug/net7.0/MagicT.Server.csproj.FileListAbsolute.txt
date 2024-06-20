@@ -1,3 +1,5 @@
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/MagicT.Client.staticwebassets.runtime.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/appsettings.Development.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/appsettings.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.dll
@@ -8,8 +10,6 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/BlazorDebugProxy/Newtonsoft.Json.dll
-/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
-/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/MagicT.Client.staticwebassets.runtime.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/MagicT.Server.staticwebassets.runtime.json
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/MagicT.Server
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/MagicT.Server.deps.json
@@ -22,6 +22,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/Azure.Identity.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/Blazored.LocalStorage.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/ClosedXML.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/Coravel.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/bin/Debug/net7.0/DeepCloner.dll

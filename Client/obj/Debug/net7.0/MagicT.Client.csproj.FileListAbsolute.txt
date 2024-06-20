@@ -3,6 +3,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/BouncyCastle.Crypto.dll
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Bromix.MudBlazor.MaterialDesignIcons.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/ClosedXML.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
@@ -399,6 +400,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/DocumentFormat.OpenXml.dll.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/System.Net.Requests.dll.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/Bromix.MudBlazor.MaterialDesignIcons.dll.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/MagicT.Client.dll.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encoding.dll.gz
@@ -692,6 +694,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/AutoRegisterInject.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/Blazored.LocalStorage.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/ClosedXML.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/DeepCloner.dll
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/bin/Debug/net7.0/DocumentFormat.OpenXml.dll
@@ -1037,6 +1040,7 @@
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/HDCF05oK.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/tqSvcquU.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/1UR3qVi7.gz
+/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/91PR7XZR.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/gvOL6TdE.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/lXBvtOmI.gz
 /Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/obj/Debug/net7.0/build-gz/8XAGiYrL.gz

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "49QIA3WsisixIdFeYeCwMYR/kD16w/GPAc6jyDKKrI4WhjxkTn3FqxV+HzSQclN9uiRtDFEczdqxEJ5MB4KVHg==",
+  "dgSpecHash": "x0Vz14vV2HRcnQ7J5/l2jheoqadh2/nF6ZYeT7gj4QZ3AVtid0wDIjHbjZpTeM59jDOI7eRIUO9WTZii5DC5lA==",
   "success": true,
   "projectFilePath": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/MagicT.Client.csproj",
   "expectedPackageFiles": [
     "/Users/asimgunduz/.nuget/packages/autoregisterinject/1.4.0/autoregisterinject.1.4.0.nupkg.sha512",
     "/Users/asimgunduz/.nuget/packages/blazored.localstorage/4.5.0/blazored.localstorage.4.5.0.nupkg.sha512",
     "/Users/asimgunduz/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/bromix.mudblazor.materialdesignicons/7.4.47.56/bromix.mudblazor.materialdesignicons.7.4.47.56.nupkg.sha512",
     "/Users/asimgunduz/.nuget/packages/closedxml/0.101.0/closedxml.0.101.0.nupkg.sha512",
     "/Users/asimgunduz/.nuget/packages/deepcloner/0.10.4/deepcloner.0.10.4.nupkg.sha512",
     "/Users/asimgunduz/.nuget/packages/documentformat.openxml/2.16.0/documentformat.openxml.2.16.0.nupkg.sha512",

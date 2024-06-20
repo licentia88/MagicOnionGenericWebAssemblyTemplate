@@ -6,3 +6,23 @@ Method:LoginWithUsername
 Message: 
 Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
 Method:LoginWithUsername
+2024-06-20 15:33:25.897 +03:00 [INF] User:0
+Message:The method has returned the status code 'NotFound'. (Detail=Invalid Username or password) 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Line:139Method:LoginWithUsername
+2024-06-20 15:33:29.782 +03:00 [INF] User:0
+Message:The method has returned the status code 'NotFound'. (Detail=Invalid Username or password) 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Line:139Method:LoginWithUsername
+2024-06-20 15:33:31.659 +03:00 [INF] User:0
+Message:The method has returned the status code 'NotFound'. (Detail=Invalid Username or password) 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Line:139Method:LoginWithUsername
+2024-06-20 15:33:35.666 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Method:LoginWithUsername
+2024-06-20 15:37:42.384 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Method:LoginWithUsername

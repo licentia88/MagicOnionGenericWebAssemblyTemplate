@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[4.5.0, )"
             },
+            "Bromix.MudBlazor.MaterialDesignIcons": {
+              "target": "Package",
+              "version": "[7.4.47.56, )"
+            },
             "Generator.Components": {
               "target": "Package",
               "version": "[1.6.9, )"
