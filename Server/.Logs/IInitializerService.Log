@@ -462,3 +462,19 @@ Method:GetPermissions
 Message: 
 Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/InitializerService.cs
 Method:GetOperations
+2024-06-20 22:25:43.500 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/InitializerService.cs
+Method:GetUsers
+2024-06-20 22:25:43.666 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/InitializerService.cs
+Method:GetRoles
+2024-06-20 22:25:43.870 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/InitializerService.cs
+Method:GetPermissions
+2024-06-20 22:25:43.914 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/InitializerService.cs
+Method:GetOperations

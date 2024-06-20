@@ -26,3 +26,7 @@ Method:LoginWithUsername
 Message: 
 Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
 Method:LoginWithUsername
+2024-06-20 22:25:56.376 +03:00 [INF] User:0
+Message: 
+Path:/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Server/Services/AuthenticationService.cs
+Method:LoginWithUsername
