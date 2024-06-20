@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using MagicOnion;
 
 namespace MagicT.Client.Services.Base;

@@ -1,4 +1,6 @@
-﻿using MagicOnion.Server;
+﻿using System;
+using System.Threading.Tasks;
+using MagicOnion.Server;
 
 namespace MagicT.Server.Filters;
 

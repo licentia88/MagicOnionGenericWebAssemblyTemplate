@@ -54,6 +54,7 @@ public abstract class MagicUnitTestBase<TService, TModel> : UnitTestBase<TServic
         Assert.That(readRecords.Count, Is.GreaterThan(0), "The number of returned records should be greater than zero.");
     }
 
+    //todo:will implement this later
     public Task StreamReadAllAsync(int batchSize)
     {
         throw new NotImplementedException();

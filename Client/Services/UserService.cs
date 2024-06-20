@@ -1,3 +1,4 @@
+using System;
 using MagicT.Client.Services.Base;
 using MagicT.Shared.Models;
 using MagicT.Shared.Services;

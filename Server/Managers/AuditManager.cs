@@ -1,4 +1,6 @@
-﻿using System.Text.Json;
+﻿using System;
+using System.Collections.Generic;
+using System.Text.Json;
 using Benutomo;
 using Coravel.Queuing.Interfaces;
 using MagicOnion.Server;
@@ -9,6 +11,7 @@ using MagicT.Server.Jwt;
 using MagicT.Server.Payloads;
 using MagicT.Shared.Extensions;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Server.Managers;
 

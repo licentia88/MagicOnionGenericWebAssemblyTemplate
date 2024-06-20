@@ -1,4 +1,6 @@
-﻿using MagicT.Shared.Models;
+﻿using System;
+using System.Collections.Generic;
+using MagicT.Shared.Models;
 using MagicT.Shared.Models.ViewModels;
 using Microsoft.AspNetCore.Components;
 

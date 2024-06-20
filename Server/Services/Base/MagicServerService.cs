@@ -1,4 +1,5 @@
-﻿using MagicOnion;
+﻿using System;
+using MagicOnion;
 using MagicT.Shared.Services.Base;
 using Microsoft.EntityFrameworkCore;
 

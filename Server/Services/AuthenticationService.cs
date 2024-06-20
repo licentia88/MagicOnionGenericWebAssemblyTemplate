@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using System;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Grpc.Core;
 using MagicOnion;
 using MagicT.Server.Database;
@@ -12,6 +15,7 @@ using MagicT.Shared.Models;
 using MagicT.Shared.Models.ViewModels;
 using MagicT.Shared.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Server.Services;
 

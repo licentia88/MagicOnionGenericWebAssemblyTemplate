@@ -1,3 +1,4 @@
+using System;
 using AQueryMaker.Extensions;
 using MagicOnion;
 using MagicT.Server.Database;

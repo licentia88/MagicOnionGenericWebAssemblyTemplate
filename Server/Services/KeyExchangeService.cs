@@ -1,3 +1,4 @@
+using System;
 using Benutomo;
 using MagicOnion;
 using MagicT.Server.Database;
@@ -5,6 +6,7 @@ using MagicT.Server.Managers;
 using MagicT.Server.Services.Base;
 using MagicT.Shared.Managers;
 using MagicT.Shared.Services;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Server.Services;
 

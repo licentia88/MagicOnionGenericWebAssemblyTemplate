@@ -1,4 +1,5 @@
-﻿using MagicOnion;
+﻿using System.Collections.Generic;
+using MagicOnion;
 using MagicT.Shared.Models;
 using MagicT.Shared.Models.ViewModels;
 

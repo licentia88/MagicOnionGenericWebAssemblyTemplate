@@ -1,4 +1,5 @@
-﻿using MagicOnion.Client;
+﻿using System.Linq;
+using MagicOnion.Client;
 
 namespace MagicT.Client.Extensions;
 

@@ -1,9 +1,12 @@
-﻿using MagicT.Shared.Models.ViewModels;
+﻿using System;
+using System.Threading.Tasks;
+using MagicT.Shared.Models.ViewModels;
 using MagicT.Client.Models;
 using MagicT.Shared.Helpers;
 using MagicT.Shared.Managers;
 using MagicT.Shared.Models.ServiceModels;
 using MessagePipe;
+using Microsoft.Extensions.DependencyInjection;
 using Org.BouncyCastle.Crypto;
 
 namespace MagicT.Client.Managers;

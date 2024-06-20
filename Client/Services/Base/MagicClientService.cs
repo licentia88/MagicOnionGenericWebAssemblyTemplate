@@ -1,4 +1,7 @@
-﻿using MagicOnion;
+﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using MagicOnion;
 using MagicOnion.Client;
 using MagicT.Shared.Services.Base;
 

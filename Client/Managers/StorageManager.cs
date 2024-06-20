@@ -1,4 +1,6 @@
-﻿using MagicT.Shared.Models.ViewModels;
+﻿using System;
+using System.Threading.Tasks;
+using MagicT.Shared.Models.ViewModels;
 using Blazored.LocalStorage;
 using Microsoft.Extensions.DependencyInjection;
 

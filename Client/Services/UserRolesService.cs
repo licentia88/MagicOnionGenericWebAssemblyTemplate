@@ -1,4 +1,6 @@
-﻿using MagicOnion;
+﻿using System;
+using System.Collections.Generic;
+using MagicOnion;
 using MagicT.Client.Services.Base;
 using MagicT.Shared.Models;
 using MagicT.Shared.Services;

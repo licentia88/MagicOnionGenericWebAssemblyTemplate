@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Linq;
+using System.Reflection;
 using MagicT.Shared.Models.ServiceModels;
 
 namespace MagicT.Server.Extensions;

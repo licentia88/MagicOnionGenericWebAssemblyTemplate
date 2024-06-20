@@ -1,4 +1,5 @@
-﻿using MagicOnion;
+﻿using System;
+using MagicOnion;
 using MagicT.Client.Filters;
 using MagicT.Client.Services.Base;
 using MagicT.Shared.Models.ViewModels;

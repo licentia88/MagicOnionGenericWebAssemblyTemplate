@@ -1,4 +1,5 @@
-﻿using Grpc.Core;
+﻿using System.Linq;
+using Grpc.Core;
 
 namespace MagicT.Client.Extensions;
 /// <summary>

@@ -1,7 +1,10 @@
+using System;
+using System.Collections.Generic;
 using MagicT.Shared.Models;
 using MagicT.Shared.Models.Base;
 using MagicT.Shared.Models.ViewModels;
 using MagicT.Shared.Services;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Client.Seed;
 

@@ -1,10 +1,12 @@
-﻿using MagicOnion.Client;
+﻿using System;
+using MagicOnion.Client;
 using MagicT.Shared.Services;
 using Blazored.LocalStorage;
 using Microsoft.Extensions.DependencyInjection;
 using MagicT.Client.Extensions;
 using MagicT.Shared.Models.ViewModels;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace MagicT.Client.Filters;
 

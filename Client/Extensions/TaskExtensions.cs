@@ -1,4 +1,6 @@
-﻿using MagicT.Shared.Enums;
+﻿using System;
+using System.Threading.Tasks;
+using MagicT.Shared.Enums;
 
 namespace MagicT.Client.Extensions;
 

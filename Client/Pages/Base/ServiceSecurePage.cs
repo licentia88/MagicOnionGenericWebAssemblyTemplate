@@ -1,4 +1,7 @@
-﻿using Generator.Components.Args;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Generator.Components.Args;
 using MagicT.Client.Extensions;
 using MagicT.Client.Models;
 using MagicT.Client.Pages.Shared;

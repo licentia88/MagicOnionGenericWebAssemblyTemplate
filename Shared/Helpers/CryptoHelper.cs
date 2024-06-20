@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using MagicT.Shared.Models.ServiceModels;
 using MemoryPack;

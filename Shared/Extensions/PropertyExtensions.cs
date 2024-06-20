@@ -1,4 +1,6 @@
-﻿using System.Dynamic;
+﻿using System;
+using System.Collections.Generic;
+using System.Dynamic;
 using System.Reflection;
 
 namespace MagicT.Shared.Extensions;

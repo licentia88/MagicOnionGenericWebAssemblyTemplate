@@ -5,7 +5,7 @@ using MagicT.Client.Managers;
 using MagicT.Shared.Extensions;
 using MagicT.Shared.Helpers;
 using MagicT.Shared.Models.ServiceModels;
- 
+
 namespace MagicT.Client.Filters;
 
 /// <summary>
@@ -59,4 +59,6 @@ public class AuthorizationFilter : IClientFilter
 
         return ("crypted-auth-bin",cryptedAuthBin);
     }
+
+ 
 }

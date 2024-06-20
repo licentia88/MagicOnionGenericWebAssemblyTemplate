@@ -1,4 +1,5 @@
-﻿using MagicT.Client.Managers;
+﻿using System;
+using MagicT.Client.Managers;
 using MagicT.Shared.Models.ViewModels;
 using MessagePipe;
 //using MessagePipe;

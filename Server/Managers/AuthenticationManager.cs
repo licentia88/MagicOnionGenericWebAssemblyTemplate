@@ -1,4 +1,6 @@
-﻿using Benutomo;
+﻿using System;
+using System.Linq;
+using Benutomo;
 using Grpc.Core;
 using MagicOnion;
 using MagicT.Server.Database;
@@ -6,6 +8,7 @@ using MagicT.Server.Jwt;
 using MagicT.Server.Models;
 using MagicT.Shared.Models.ServiceModels;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Server.Managers;
 

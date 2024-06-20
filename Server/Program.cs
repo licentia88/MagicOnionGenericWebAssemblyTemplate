@@ -10,7 +10,11 @@ using MagicT.Server.Initializers;
 using MagicT.Server.Jwt;
 using MagicT.Shared.Extensions;
 using MagicT.Shared.Managers;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 

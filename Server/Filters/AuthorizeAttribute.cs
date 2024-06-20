@@ -1,4 +1,7 @@
-﻿using Grpc.Core;
+﻿using System;
+using System.Linq;
+using System.Threading.Tasks;
+using Grpc.Core;
 using MagicOnion;
 using MagicOnion.Server;
 using MagicOnion.Server.Filters;
@@ -8,6 +11,7 @@ using MagicT.Server.Managers;
 using MagicT.Shared.Extensions;
 using MagicT.Shared.Helpers;
 using MagicT.Shared.Models.ServiceModels;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Server.Filters;
 

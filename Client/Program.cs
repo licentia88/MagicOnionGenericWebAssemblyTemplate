@@ -1,5 +1,8 @@
 ﻿
 
+using System;
+using System.Collections.Generic;
+using System.Net.Http;
 using Grpc.Net.Client;
 using Grpc.Net.Client.Web;
 using MagicOnion.Client;
@@ -16,6 +19,7 @@ using MagicT.Client.Seed;
 using MagicT.Shared.Extensions;
 using MagicT.Client.Services;
 using MessagePipe;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 

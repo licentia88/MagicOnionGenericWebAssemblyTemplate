@@ -1,4 +1,6 @@
-﻿using MagicOnion.Server;
+﻿using System;
+using System.Threading.Tasks;
+using MagicOnion.Server;
 using MagicT.Server.Extensions;
 using MagicT.Shared.Services;
 

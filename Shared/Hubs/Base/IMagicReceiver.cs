@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace MagicT.Shared.Hubs.Base;
 
 /// <summary>

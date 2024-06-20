@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using Generator.Equals;
 using MagicT.Shared.Models.Base;

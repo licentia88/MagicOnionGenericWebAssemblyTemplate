@@ -1,4 +1,6 @@
-﻿namespace MagicT.Client.Services.JsInterop;
+﻿using System.Threading.Tasks;
+
+namespace MagicT.Client.Services.JsInterop;
 
 public interface ICookieService
 {

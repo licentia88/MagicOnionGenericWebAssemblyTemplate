@@ -1,9 +1,11 @@
+using System;
 using MagicOnion;
 using MagicT.Client.Services.Base;
 using MagicT.Shared.Services;
 using Blazored.LocalStorage;
 using MagicT.Shared.Managers;
 using MagicT.Shared.Models.ServiceModels;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MagicT.Client.Services;
 
