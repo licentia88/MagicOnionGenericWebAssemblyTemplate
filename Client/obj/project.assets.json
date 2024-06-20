@@ -36,6 +36,19 @@
           }
         }
       },
+      "Bromix.MudBlazor.MaterialDesignIcons/7.4.47.56": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "ClosedXML/0.101.0": {
         "type": "package",
         "dependencies": {
@@ -3160,6 +3173,19 @@
         },
         "runtime": {
           "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Bromix.MudBlazor.MaterialDesignIcons/7.4.47.56": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll": {
             "related": ".xml"
           }
         }
@@ -6318,6 +6344,22 @@
         "lib/net45/BouncyCastle.Crypto.xml",
         "lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "lib/netstandard2.0/BouncyCastle.Crypto.xml"
+      ]
+    },
+    "Bromix.MudBlazor.MaterialDesignIcons/7.4.47.56": {
+      "sha512": "4DcGMMyQ9KKXoywzTl+nXeSFG4GoIpCjZ2Twmapg80PwE+6RsemNjqSjApZ9lp0ah3me+0qaDxYek1VjE2R7UQ==",
+      "type": "package",
+      "path": "bromix.mudblazor.materialdesignicons/7.4.47.56",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Logo.png",
+        "README.md",
+        "bromix.mudblazor.materialdesignicons.7.4.47.56.nupkg.sha512",
+        "bromix.mudblazor.materialdesignicons.nuspec",
+        "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.dll",
+        "lib/net7.0/Bromix.MudBlazor.MaterialDesignIcons.xml"
       ]
     },
     "ClosedXML/0.101.0": {
@@ -13105,6 +13147,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Blazored.LocalStorage >= 4.5.0",
+      "Bromix.MudBlazor.MaterialDesignIcons >= 7.4.47.56",
       "Generator.Components >= 1.6.9",
       "Grpc.Net.Client.Web >= 2.63.0",
       "MagicOnion.Client >= 6.1.3",
@@ -13164,6 +13207,10 @@
           "Blazored.LocalStorage": {
             "target": "Package",
             "version": "[4.5.0, )"
+          },
+          "Bromix.MudBlazor.MaterialDesignIcons": {
+            "target": "Package",
+            "version": "[7.4.47.56, )"
           },
           "Generator.Components": {
             "target": "Package",

@@ -85,6 +85,14 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/logo192.png",
+      "PackagePath": "staticwebassets/logo192.png"
+    },
+    {
+      "Id": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/logo512.png",
+      "PackagePath": "staticwebassets/logo512.png"
+    },
+    {
       "Id": "/Users/asimgunduz/RiderProjects/MagicTWebAssembly/Client/wwwroot/manifest.json",
       "PackagePath": "staticwebassets/manifest.json"
     },

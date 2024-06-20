@@ -10,6 +10,7 @@
       "AutoRegisterInject.dll": "sha256-2KtKAgAES3Rt3Jdtf+uA51KOWage8VYUhJXoiJHs1AE=",
       "Blazored.LocalStorage.dll": "sha256-xcO4wZtFwM5I9DIZf1sZpOdcsaTjw1HyqJ5AWciMDAk=",
       "BouncyCastle.Crypto.dll": "sha256-6ULP9FMof96K+y0UqfkB08Lk+Z\/8ZH\/Dd0gj8xS4EBA=",
+      "Bromix.MudBlazor.MaterialDesignIcons.dll": "sha256-MejXbNiM4pKT5NpFaoMw\/Aei7wKnQYIkShKU5I92E0Y=",
       "ClosedXML.dll": "sha256-NuSGSPnArbfJPdP\/NXAruObL22wOjkuO\/58M9\/7jSFw=",
       "DeepCloner.dll": "sha256-0z32Jj39dxvhAObryD60N1OemfRoFvti9RLp8VkWXSI=",
       "DocumentFormat.OpenXml.dll": "sha256-WI0HvcDdgox9sH0Er0LEfUiwktks7Lt\/9uY\/l0G0iXQ=",
@@ -259,15 +260,15 @@
       "mscorlib.dll": "sha256-fVDx40u1vKqhdy509hDF73SIx6C5q5Mst93LwfZWVQY=",
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
-      "MagicT.Shared.dll": "sha256-8lGB9+jG8tbj63TVwXaB4ONVpQkhLWvTzDgR3Px7Mcg=",
-      "MagicT.Client.dll": "sha256-Fa9TYj9Ye3p3XxGrZTBxIXyFnygmQK+0PfzFEEgFGn8="
+      "MagicT.Shared.dll": "sha256-1kpcKFDYSKXL7avcuDoL3q+0yToImBn4ehskHYiIHz8=",
+      "MagicT.Client.dll": "sha256-3A9xOHuB\/znGarjMPWfPNWzeTHmzFLKSNGTX05TKGxY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MagicT.Shared.pdb": "sha256-h+Qc+VarK2mN4ociIorsinlcSyguqTcsAEeTqnbK0RM=",
-      "MagicT.Client.pdb": "sha256-Uy\/TXE\/Yh1OzXlL7oajh8v350RTBhIE4ysr8ueu1RMo="
+      "MagicT.Shared.pdb": "sha256-p3e3A5YgQrik+rywEtvYItRA8LbovX5bE9Q65bVfXW4=",
+      "MagicT.Client.pdb": "sha256-\/iTZiMyEbmEXy4o1Kd0JAPeAnOg6XzTKk6+eu1U63zM="
     },
     "runtime": {
       "dotnet.7.0.15.ifuffbr1he.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",

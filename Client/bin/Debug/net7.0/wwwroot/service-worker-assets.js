@@ -65,7 +65,15 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-nsyrm3UAer+gAn2BeQ5UvAcwzVZQxVR5UyqLuhyg9zM=",
+      "hash": "sha256-qmX+\/CUnn+IkmX\/2cCsVUKE+udd4CWQ1VHxmcET0zU0=",
+      "url": "logo192.png"
+    },
+    {
+      "hash": "sha256-1qpOrB4XARTHLGHb1Zzph17RgTPXWWct0\/louGqakBc=",
+      "url": "logo512.png"
+    },
+    {
+      "hash": "sha256-HIioRwtTRe+\/H89n\/irxylLQZe\/bW0ofBIeKJ3BA1lQ=",
       "url": "manifest.json"
     },
     {
@@ -83,6 +91,10 @@
     {
       "hash": "sha256-6ULP9FMof96K+y0UqfkB08Lk+Z\/8ZH\/Dd0gj8xS4EBA=",
       "url": "_framework\/BouncyCastle.Crypto.dll"
+    },
+    {
+      "hash": "sha256-MejXbNiM4pKT5NpFaoMw\/Aei7wKnQYIkShKU5I92E0Y=",
+      "url": "_framework\/Bromix.MudBlazor.MaterialDesignIcons.dll"
     },
     {
       "hash": "sha256-NuSGSPnArbfJPdP\/NXAruObL22wOjkuO\/58M9\/7jSFw=",
@@ -1421,19 +1433,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-8lGB9+jG8tbj63TVwXaB4ONVpQkhLWvTzDgR3Px7Mcg=",
+      "hash": "sha256-1kpcKFDYSKXL7avcuDoL3q+0yToImBn4ehskHYiIHz8=",
       "url": "_framework\/MagicT.Shared.dll"
     },
     {
-      "hash": "sha256-h+Qc+VarK2mN4ociIorsinlcSyguqTcsAEeTqnbK0RM=",
+      "hash": "sha256-p3e3A5YgQrik+rywEtvYItRA8LbovX5bE9Q65bVfXW4=",
       "url": "_framework\/MagicT.Shared.pdb"
     },
     {
-      "hash": "sha256-Fa9TYj9Ye3p3XxGrZTBxIXyFnygmQK+0PfzFEEgFGn8=",
+      "hash": "sha256-3A9xOHuB\/znGarjMPWfPNWzeTHmzFLKSNGTX05TKGxY=",
       "url": "_framework\/MagicT.Client.dll"
     },
     {
-      "hash": "sha256-Uy\/TXE\/Yh1OzXlL7oajh8v350RTBhIE4ysr8ueu1RMo=",
+      "hash": "sha256-\/iTZiMyEbmEXy4o1Kd0JAPeAnOg6XzTKk6+eu1U63zM=",
       "url": "_framework\/MagicT.Client.pdb"
     },
     {
@@ -1441,7 +1453,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-pjIarqAwUuDwytzVUkmkurmwSoB2K0Z7frSLkLRZbVU=",
+      "hash": "sha256-QWck9MVDzbIgbantYghimSeFMesdCua6pTq062SWQrk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1461,5 +1473,5 @@
       "url": "_content\/Generator.Components\/Generator.Components.bundle.scp.css"
     }
   ],
-  "version": "4jlOxq3\/"
+  "version": "+UKQ5\/ob"
 };
