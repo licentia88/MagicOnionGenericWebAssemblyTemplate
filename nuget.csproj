@@ -1,0 +1,40 @@
+    <Project Sdk="Microsoft.NET.Sdk">
+      <PropertyGroup>
+        <TargetFramework>.net7.0</TargetFramework>
+        <IncludeContentInPack>true</IncludeContentInPack>
+        <IncludeBuildOutput>false</IncludeBuildOutput>
+        <ContentTargetFolders>content</ContentTargetFolders>
+        <EnableDefaultItems>false</EnableDefaultItems>
+        <NoDefaultExcludes>true</NoDefaultExcludes>
+        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+        <PackageOutputPath>.</PackageOutputPath>  
+      </PropertyGroup>
+
+      <ItemGroup>
+        <Content Include=".template.config\template.json;
+                          Client\**\*;                     
+                          Server\**\*;
+                          Shared\**\*;"
+                 Exclude="**\bin\**\*;**\obj\**\*" />
+        <Compile Remove="**\*" />
+
+      </ItemGroup>
+
+ 
+      <PropertyGroup>
+        <PackageType>Template</PackageType>
+        <Version>1.0.1</Version>
+        <PackageId>MagicOnionGenericWebAssemblyTemplate</PackageId>
+        <Title>MagicOnion Generic WebAssembly Template</Title>
+        <Company>ASIM GUNDUZ</Company>
+        <Authors>ASIM GUNDUZ</Authors>
+        <Copyright>ASIM GUNDUZ © 2023</Copyright>
+        <Description>A ready-to-use generic WebAssembly template for magiconion</Description>
+        <PackageTags>c#;magiconion;magiconiongeneric;template;magiconionGenericWebAssemblyTemplate</PackageTags>
+        <PackageCopyright>ASIM GUNDUZ © 2023</PackageCopyright>
+        <PackageProjectUrl>https://github.com/licentia88/MagicOnionGenericWebAssemblyTemplate</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/licentia88/MagicOnionGenericWebAssemblyTemplate</RepositoryUrl>
+      </PropertyGroup>
+    </Project>

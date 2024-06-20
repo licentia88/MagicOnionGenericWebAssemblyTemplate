@@ -1,0 +1,74 @@
+﻿@page "/AuditsRecord"
+
+@inherits ServicePage<AUDIT_RECORDS, IAuditRecordsService>
+
+
+<AuthenticationView>
+    <Authenticated>
+
+        <GenGrid DataSource="@DataSource"
+                 TModel="AUDIT_RECORDS"
+                 EditMode="EditMode.Form"
+                 MaxWidth="MaxWidth.Large"
+                 Title="Audit Queries"
+                 FixedFooter="true"
+                 Search="IsSingleRecord?null:FindByParametersAsync"
+                 Height="500"
+                 Class="m-2">
+            <GenSearchFields>
+
+                @{
+                    if (!IsSingleRecord)
+                    {
+                        <GenComboBox BindingField="@nameof(AUDIT_RECORDS.AB_USER_ID)"
+                                     DataSource="UsersList.Value"
+                                     DisplayField="@nameof(USERS.U_FULLNAME)"
+                                     ValueField="@nameof(USERS.U_ROWID)"
+                                     xs="12" sm="12" md="6" lg="3" xl="3" xxl="3"
+                                     Label="User" />
+                    }
+                }
+
+            </GenSearchFields>
+            <GenColumns>
+
+                <GenTextField BindingField="@nameof(AUDIT_RECORDS.AB_DATE)"
+                              Label="Date" />
+
+                <GenTextField BindingField="@nameof(AUDIT_RECORDS.AR_TABLE_NAME)"
+                              Label="Service" />
+
+                <GenComboBox BindingField="@nameof(AUDIT_RECORDS.AB_TYPE)"
+                             DataSource="OperationsList.Value"
+                             DisplayField="@nameof(Operations.Description)"
+                             ValueField="@nameof(Operations.Id)"
+                             Label="Type" />
+
+                <GenComboBox BindingField="@nameof(AUDIT_RECORDS.AB_USER_ID)"
+                             DataSource="UsersList.Value"
+                             DisplayField="@nameof(USERS.U_NAME)"
+                             ValueField="@nameof(USERS.U_ROWID)"
+                             Label="User" />
+
+
+
+                <GenTextField BindingField="@nameof(AUDIT_RECORDS.AB_END_POINT)"
+                              Label="Service" />
+
+
+            </GenColumns>
+
+            <GenDetailGrid>
+                <MudTabs Class="mt-5" Style="width:100%!important" Color="Color.Primary">
+                    <MudTabPanel Text="Details">
+                        <AuditsRecordD ParentModel="context"  />
+                    </MudTabPanel>
+                </MudTabs>
+            </GenDetailGrid>
+        </GenGrid>
+        
+    </Authenticated>
+</AuthenticationView>
+
+
+ 

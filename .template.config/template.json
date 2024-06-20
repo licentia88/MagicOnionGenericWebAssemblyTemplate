@@ -1,0 +1,37 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "ASIM GUNDUZ",
+    "classifications": [ "MagicOnion", "MagicOnion Generic", "MagicOnion Generic WebAssembly Template", "C#", "Template" ],
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    },
+    "identity": "MagicTWebAssembly",
+    "name": "Magic Onion Generic WebAssembly Template",
+    "shortName": "magic-onion-generic-webAssembly",
+    "sourceName": "MagicT",
+    "preferNameDirlectory": true,
+    "sources": [
+        {
+            "modifiers": [
+                {
+                    "exclude": [
+                        ".vs/**",
+                        ".template_config/**",
+                        "README.md",
+                        ".DS_Store",
+                        ".gitignore",
+                        ".git/**",
+                        ".idea/**",
+                        ".vscode/**",
+                        "bin/**",
+                        ".obj/**",
+                        "Server/Migrations/**",
+                        "nuget.csproj",
+                        "MagicOnionGenericWebAssemblyTemplate.*.nupkg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
